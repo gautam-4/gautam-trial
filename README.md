@@ -1,3 +1,3 @@
 # gautam-trial
-first GIT repository. <br>
+first Git repository. <br>
 Author - Gautam Arora
